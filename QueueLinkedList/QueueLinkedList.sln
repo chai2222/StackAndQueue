@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueLinkedList", "QueueLinkedList.csproj", "{424DF97E-6513-4928-AF7E-8DB899D26AE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{424DF97E-6513-4928-AF7E-8DB899D26AE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{424DF97E-6513-4928-AF7E-8DB899D26AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{424DF97E-6513-4928-AF7E-8DB899D26AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{424DF97E-6513-4928-AF7E-8DB899D26AE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E68D0408-D3F0-47E7-A625-4D33DB7A3D62}
+	EndGlobalSection
+EndGlobal
